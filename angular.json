@@ -88,6 +88,12 @@
               "src/assets"
             ],
             "styles": [
+              {
+                "input": "./node_modules/bootstrap/dist/css/bootstrap.min.css"
+              },
+              {
+                "input": "./node_modules/font-awesome/css/font-awesome.min.css"
+              },
               "src/styles.css"
             ],
             "scripts": []
@@ -123,6 +129,6 @@
   },
   "defaultProject": "QuotesApp",
   "cli": {
-    "analytics": "3c8f3fe9-c1d3-4bc4-889c-9b6095abda4b"
+    "analytics": "588f6ec4-3038-4fe9-9136-1d7f7ed66d4d"
   }
 }
