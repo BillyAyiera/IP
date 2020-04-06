@@ -9,7 +9,7 @@ import { Quote } from '../quote';
 export class QuoteComponent implements OnInit {
 
   quotes: Quote[] = [
-    new Quote(1, 'Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live ',
+    new Quote(1, 'Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world. ',
     'Rick Cook, The Wizardry Compiled', 'Linus Torvalds',
     new Date(2020, 3, 3), 0, 0),
     new Quote(2, 'Good programmers write code that humans can understand', 'Martin Fowler', 'Larry Niven',
